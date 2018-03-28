@@ -1,5 +1,4 @@
- ## Shell Sort
-  ##### [Implementation] (src/sorting/shellsort/ShellSort.java) 
+ ## [Shell Sort](https://github.com/nanyahill/coding-interview-resources/src/sorting/shellsort/ShellSort.java)
   ##### Key Ideas:
 	      - Improves insertion sort algorithm.
 	      - Splits original array into multiple subarrays, then h-sort subarrays.
