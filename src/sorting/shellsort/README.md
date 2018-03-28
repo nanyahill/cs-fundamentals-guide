@@ -8,7 +8,7 @@
 	      - A subarray consists of elements that are h elements apart.
 	      - Overall, the original array is sorted by h-sorting subarrays for each value of h.
 	      
-  #### Properties:
+  #### Properties/Sidenotes:
 	      - It is not a stable algorithm.
 	      - It is an in-place algorithm.
 	      - An h-sorted array remains h-sorted after g-sorting it.
@@ -18,3 +18,4 @@
 	      - When h is 1, shell sort becomes simply insertion sort with much less inversions.
         
   #### Analysis:
+        - **Best Case:** O(nlogn), **Worst Case(using 3h + 1 as sequence):** O(n^3/2)
