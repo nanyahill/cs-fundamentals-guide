@@ -1,4 +1,4 @@
 # coding-interview-resources
-Resources to help me prepare for coding interviews.
+Resources to help prepare for coding interviews.
 
-## This repository is still under construction
+### This repository is still under construction
