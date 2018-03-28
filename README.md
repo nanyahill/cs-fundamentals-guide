@@ -42,6 +42,7 @@ Algorithms:
 	      - The choice of the decrementing sequence is KEY to shell sort and can lead to better time complexity. 
 	      - For every h-sort, elements are moved closer to their correct position.
 	      - When h is 1, shell sort becomes simply insertion sort with much less inversions.
+	##### Analysis:
     - Merge Sort
     - Quick Sort
   - Non-Comparison based
