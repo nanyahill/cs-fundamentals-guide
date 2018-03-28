@@ -13,7 +13,7 @@
 	      - It is an in-place algorithm.
 	      - An h-sorted array remains h-sorted after g-sorting it.
 	      - Above point has to be true because earlier sorting passes are not undone by later sorting passes.
-	      - The choice of the decrementing sequence is ** key ** to shell sort and can lead to better time complexity. 
+	      - The choice of the decrementing sequence is **key** to shell sort and can lead to better time complexity. 
 	      - For every h-sort, elements are moved closer to their correct position.
 	      - When h is 1, shell sort becomes simply insertion sort with much less inversions.
         
