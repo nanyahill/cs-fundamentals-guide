@@ -5,11 +5,11 @@ Resources to help prepare for coding interviews.
 
 > This repository serves as a reference guide to quickly brush up on CS fundamentals required for coding interviews. Below, the topics related to Data Strcutures and Algorithms have been grouped as per my understanding so far. Also, articles/references have been added which I found useful when studying these topics.
 
-Concepts:
+**Concepts:**
 - Recursion
 - Big O complexity
 
-Data Structures:
+**Data Structures:**
 - Arrays
 - LinkedLists
 - Stacks and Queues
@@ -18,7 +18,7 @@ Data Structures:
 - Hash Tables
 - Binary Search Trees
 
-Algorithms:
+**Algorithms:**
 - Searching
 - Sorting
   - Comparison-based
