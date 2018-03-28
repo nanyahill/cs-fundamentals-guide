@@ -26,10 +26,21 @@ Algorithms:
     - Bubble Sort
     - Insertion Sort
     - #### Shell Sort
-      ##### Key Ideas:
-	      - Improves insertion sort algorithm by splitting original array into multiple subarrays, then h-sort subarrays.
-	      - The split happens by choosing an appropriate decrementing sequence of h values that ends in 1. For example, 10, 5, 2, 1.
-	      - Each value of h is called a gap.
+      	##### Key Ideas:
+	      - Improves insertion sort algorithm.
+	      - Splits original array into multiple subarrays, then h-sort subarrays.
+	      - h-sort means rearrange the array such that elements at every hth positions form a sorted sequence.
+	      - h consists of an appropriate set of decrementing sequence that ends in 1. e.g. 10, 5, 2, 1.
+	      - Overall, the original array is sorted by h-sorting subarrays for each value of h.
+	      - Each value of h can be called a gap.
+        ##### Properties:
+	      - Improves insertion sort algorithm.
+	      - Splits original array into multiple subarrays, then h-sort subarrays.
+	      - h-sort means rearrange the array such that elements at every hth positions form a sorted sequence.
+	      - h consists of an appropriate set of decrementing sequence that ends in 1. e.g. 10, 5, 2, 1.
+	      - Overall, the original array is sorted by h-sorting subarrays for each value of h.
+	      - Each value of h can be called a gap.
+	      
 	      - The choice of the decrementing sequence is ######key to shell sort and can lead to better time complexity. 
 	      - By sorting subarrays, elements are moved closer to their correct position.
 	      - A subarray consists of elements that are h elements apart.
