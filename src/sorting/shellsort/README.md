@@ -20,7 +20,7 @@
   #### Analysis:
         - **Best Case:** O(nlogn), **Worst Case(using 3h + 1 as sequence):** O(n^3/2)
 	
-  #### Articles:
+  #### Related Articles:
   - [Problem Solving with Algorithms and Data Structures](http://interactivepython.org/runestone/static/pythonds/SortSearch/TheShellSort.html)
   - [Algorithms by Sedgewick and Wayne](http://algs4.cs.princeton.edu/21elementary/) and [Lecture Slides](https://algs4.cs.princeton.edu/lectures/21ElementarySorts-2x2.pdf)
   - [ShellSort on Geeks4Geeks](https://www.geeksforgeeks.org/shellsort/)
