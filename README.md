@@ -35,7 +35,7 @@ Algorithms:
 	      - A subarray consists of elements that are h elements apart.
 	      - Overall, the original array is sorted by h-sorting subarrays for each value of h.
         ##### Properties:
-         -It is not a stable algorithm.
+	      - It is not a stable algorithm.
          -It is an in-place algorithm.
          -An h-sorted array remains h-sorted after g-sorting it. If otherwise, then shell sort would not make sense because earlier sorting is undone by later sorting.
 	      - The choice of the decrementing sequence is KEY to shell sort and can lead to better time complexity. 
