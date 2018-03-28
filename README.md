@@ -37,12 +37,11 @@ Algorithms:
         ##### Properties:
 	      - It is not a stable algorithm.
 	      - It is an in-place algorithm.
-	      - An h-sorted array remains h-sorted after g-sorting it. If otherwise, then shell sort would not make sense because earlier sorting is undone by later sorting.
+	      - An h-sorted array remains h-sorted after g-sorting it.
+	      - If above is untrue, then shell sort would not make sense because earlier sorting steps is undone by later sorting steps.
 	      - The choice of the decrementing sequence is KEY to shell sort and can lead to better time complexity. 
 	      - For every h-sort, elements are moved closer to their correct position.
-	      - When h is 1, shell sort becomes simply insertion sort.
-	      
-        - For any given gap, multiple subarrays can exist. Example: Using a gap of 3, the below array has three subarrays.
+	      - When h is 1, shell sort becomes simply insertion sort with much less inversions.
     - Merge Sort
     - Quick Sort
   - Non-Comparison based
