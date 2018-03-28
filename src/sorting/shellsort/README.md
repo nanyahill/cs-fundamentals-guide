@@ -1,5 +1,5 @@
- ## [Shell Sort](https://github.com/nanyahill/coding-interview-resources/blob/master/src/sorting/shellsort/ShellSort.java)
-  ##### Key Ideas:
+ # [Shell Sort](https://github.com/nanyahill/coding-interview-resources/blob/master/src/sorting/shellsort/ShellSort.java)
+  #### Key Ideas:
 	      - Improves insertion sort algorithm.
 	      - Splits original array into multiple subarrays, then h-sort subarrays.
 	      - h-sort means rearrange the array such that elements at every hth positions form a sorted sequence.
@@ -8,7 +8,7 @@
 	      - A subarray consists of elements that are h elements apart.
 	      - Overall, the original array is sorted by h-sorting subarrays for each value of h.
 	      
-  ##### Properties:
+  #### Properties:
 	      - It is not a stable algorithm.
 	      - It is an in-place algorithm.
 	      - An h-sorted array remains h-sorted after g-sorting it.
