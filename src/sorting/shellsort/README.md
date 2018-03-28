@@ -1,5 +1,6 @@
 # Shell Sort
-        ##### Key Ideas:
+
+	### Key Ideas:
 	      - Improves insertion sort algorithm.
 	      - Splits original array into multiple subarrays, then h-sort subarrays.
 	      - h-sort means rearrange the array such that elements at every hth positions form a sorted sequence.
@@ -7,7 +8,8 @@
 	      - Each value of h can be called a gap.
 	      - A subarray consists of elements that are h elements apart.
 	      - Overall, the original array is sorted by h-sorting subarrays for each value of h.
-        ##### Properties:
+	      
+       ### Properties:
 	      - It is not a stable algorithm.
 	      - It is an in-place algorithm.
 	      - An h-sorted array remains h-sorted after g-sorting it.
@@ -15,4 +17,4 @@
 	      - The choice of the decrementing sequence is KEY to shell sort and can lead to better time complexity. 
 	      - For every h-sort, elements are moved closer to their correct position.
 	      - When h is 1, shell sort becomes simply insertion sort with much less inversions.
-	##### Analysis:
+	### Analysis:
