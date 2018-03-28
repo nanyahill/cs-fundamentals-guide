@@ -1,9 +1,9 @@
 # coding-interview-resources
 Resources to help prepare for coding interviews.
 
-### This repository is still under construction
+### This repository is a work in progress
 
-> This repository serves as a way to brush up on CS fundamnetals required for coding interviews. Below, the topics related to Data Strcutures and Algorithms have been grouped as per my understanding thus far. Also, I have added helpful articles that I found when studying each of these topics.
+> This repository serves as a reference guide to quickly brush up on CS fundamentals required for coding interviews. Below, the topics related to Data Strcutures and Algorithms have been grouped as per my understanding so far. Also, articles/references have been added which I found useful when studying these topics.
 
 Concepts:
 - Recursion
