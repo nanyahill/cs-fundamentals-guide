@@ -8,13 +8,19 @@
 	      - A subarray consists of elements that are h elements apart.
 	      - Overall, the original array is sorted by h-sorting subarrays for each value of h.
 	      
-  #### Properties:
+  #### Properties/Sidenotes:
 	      - It is not a stable algorithm.
 	      - It is an in-place algorithm.
 	      - An h-sorted array remains h-sorted after g-sorting it.
 	      - Above point has to be true because earlier sorting passes are not undone by later sorting passes.
-	      - The choice of the decrementing sequence is KEY to shell sort and can lead to better time complexity. 
+	      - The choice of the decrementing sequence is _key_ to shell sort and can lead to better time complexity. 
 	      - For every h-sort, elements are moved closer to their correct position.
 	      - When h is 1, shell sort becomes simply insertion sort with much less inversions.
         
   #### Analysis:
+        - **Best Case:** O(nlogn), **Worst Case(using 3h + 1 as sequence):** O(n^3/2)
+	
+  #### Related Articles:
+  - [Problem Solving with Algorithms and Data Structures](http://interactivepython.org/runestone/static/pythonds/SortSearch/TheShellSort.html)
+  - [Algorithms by Sedgewick and Wayne](http://algs4.cs.princeton.edu/21elementary/) and [Lecture Slides](https://algs4.cs.princeton.edu/lectures/21ElementarySorts-2x2.pdf)
+  - [ShellSort on Geeks4Geeks](https://www.geeksforgeeks.org/shellsort/)
