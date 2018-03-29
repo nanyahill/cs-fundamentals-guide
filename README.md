@@ -1,5 +1,5 @@
-# coding-interview-resources
-Resources to help prepare for coding interviews.
+# cs-fundamentals-guide
+A reference guide to topics in CS fundamentals.
 
 ### This repository is a work in progress
 
