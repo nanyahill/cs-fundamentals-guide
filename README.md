@@ -25,7 +25,7 @@ A reference guide to topics in CS fundamentals.
     - Selection Sort
     - Bubble Sort
     - Insertion Sort
-    - [Shell Sort](src/sorting/shellsort/README.md)
+    - [Shell Sort](src/algorithms/sorting/shellsort/README.md)
     - Merge Sort
     - Quick Sort
   - Non-Comparison based
