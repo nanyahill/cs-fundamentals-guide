@@ -1,23 +1,24 @@
  # [Counting Sort](https://github.com/nanyahill/coding-interview-resources/blob/master/src/algorithms/sorting/countingsort/CountingSort.java)
   #### Key Ideas:
 	      - Works only on an integer-based array within a GIVEN range. (Range must be given!)
-	      - Elements of the input array map to the index of a temporary array (aka count array)
+	      - Elements of the input array map to the index of a temporary array (aka count array).
 	      - Each index of the count array stores the count of that index, that is, the frequency
 	        which the index appears as a value in the input.
 	      - A prefix-sum (running sum) is performed for elements in the count array to determine
 	        the starting position/place of the element in the sorted array.
-	        For example, count[i] = 3 means that value i in the input array should be in the third place in sorted array
-	        (i.e. position 2 using zero-based array indexing)
+	        For example, count[i] = 3 means value i (in the input array) will be in the 3rd place in sorted array.
+	        (i.e. position 2 using zero-based array indexing).
 		  - Overall there are three arrays- teh input array of size n, the count array of size k,
 		    the sorted array of size n.
 
   #### Properties/Sidenotes:
-	      - The size of the count array should be >= max(input[]). For example, if the maximum value of the input value is 9.
+	      - The size of the count array should be >= max(input[])
+	        For example, if the maximum value of the input value is 9.
 	        Size of the count array should 10 (due to zero-based array-indexing).
-		  - The algorithm is efficient ONLY if the range of values (max - min) is significantly less than n (the number of elements)
-		    or the range is fixed (e.eg ASCII characters).
-		  - The algorithm can be extended to include negative integers
-		  - It is a stable sorting algorithm
+		  - The algorithm is efficient ONLY if the range of values (max - min) is significantly less than n
+		    (the number of elements) or the range is fixed (e.eg ASCII characters).
+		  - The algorithm can be extended to include negative integers.
+		  - It is a stable sorting algorithm.
 	      - It is NOT an in-place sorting algorithm. Hence, useful if additional memory is a no issue.
 
   #### Usage:
