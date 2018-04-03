@@ -12,9 +12,8 @@
 		    the sorted array of size n.
 
   #### Properties/Sidenotes:
-	      - The size of the count array should be >= max(input[])
-	        For example, if the maximum value of the input value is 9.
-	        Size of the count array should 10 (due to zero-based array-indexing).
+	      - The size of the count array should be >= max(input[]), for example, if the maximum value of the
+	        input value is 9, size of the count array should 10 (due to zero-based array-indexing).
 		  - The algorithm is efficient ONLY if the range of values (max - min) is significantly less than n
 		    (the number of elements) or the range is fixed (e.eg ASCII characters).
 		  - The algorithm can be extended to include negative integers.
