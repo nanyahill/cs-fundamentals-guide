@@ -2,8 +2,10 @@
   #### Key Ideas:
 	      - Works only on an integer-based array within a GIVEN range. (Range must be given!)
 	      - Elements of the input array map to the index of a temporary array (aka count array)
-	      - Each index of the count array stores the count of that index, that is, the frequency which the index appears as a value in the input.
-	      - A prefix-sum (running sum) is performed for elements in the count array to determine the starting position/place of the element in the sorted array.
+	      - Each index of the count array stores the count of that index, that is, the frequency
+	        which the index appears as a value in the input.
+	      - A prefix-sum (running sum) is performed for elements in the count array to determine
+	        the starting position/place of the element in the sorted array.
 	        For example, count[i] = 3 means that value i in the input array should be in the third place in sorted array (i.e. position 2 using zero-based array indexing)
 		  - Overall there are three arrays- teh input array of size n, the count array of size k, the sorted array of size n.
 
