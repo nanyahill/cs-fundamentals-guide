@@ -30,7 +30,7 @@ A reference guide to topics in CS fundamentals.
     - Quick Sort
   - Non-Comparison based
     - Radix Sort
-    - Counting Sort
+    - [Counting Sort](src/algorithms/sorting/countingsort/README.md)
 - Dynamic Programming
 - Greedy Algorithms
 
