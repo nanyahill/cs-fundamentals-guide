@@ -6,11 +6,14 @@
 	        which the index appears as a value in the input.
 	      - A prefix-sum (running sum) is performed for elements in the count array to determine
 	        the starting position/place of the element in the sorted array.
-	        For example, count[i] = 3 means that value i in the input array should be in the third place in sorted array (i.e. position 2 using zero-based array indexing)
-		  - Overall there are three arrays- teh input array of size n, the count array of size k, the sorted array of size n.
+	        For example, count[i] = 3 means that value i in the input array should be in the third place in sorted array
+	        (i.e. position 2 using zero-based array indexing)
+		  - Overall there are three arrays- teh input array of size n, the count array of size k,
+		    the sorted array of size n.
 
   #### Properties/Sidenotes:
-	      - The size of the count array should be >= max(input[]). For example, if the maximum value of the input value is 9. Size of the count array should 10 (due to zero-based array-indexing).
+	      - The size of the count array should be >= max(input[]). For example, if the maximum value of the input value is 9.
+	        Size of the count array should 10 (due to zero-based array-indexing).
 		  - The algorithm is efficient ONLY if the range of values (max - min) is significantly less than n (the number of elements)
 		    or the range is fixed (e.eg ASCII characters).
 		  - The algorithm can be extended to include negative integers
