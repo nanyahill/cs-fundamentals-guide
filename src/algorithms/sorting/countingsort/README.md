@@ -15,6 +15,7 @@
 	  input value is 9, size of the count array should 10 (due to zero-based array-indexing).
 	- The algorithm is efficient ONLY if the range of values (max - min) is significantly less than n 
 	  (the number of elements) or the range is fixed (e.eg ASCII characters).
+	- In this algorithm, input values are used as index, hence not suitable for sorting floating point numbers.
 	- The algorithm can be extended to include negative integers.
 	- It is a stable sorting algorithm.
 	- It is NOT an in-place sorting algorithm. Hence, useful if additional memory is a no issue.
