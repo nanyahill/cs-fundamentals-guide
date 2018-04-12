@@ -1,4 +1,5 @@
 - It is an integer sorting algorithm.
+- Radix is latin for base. Base of a number is the number of different digits. e.g base of 5 means 5 different digits- 0, 1, 2, 3, 4 are possible.
 - It sorts data with integer keys by gropuing the keys based on digits which share the same position and value.
 - There are two classifications of radix sort:
 	- LSD radix sort: sorts by grouping keys based on digits starting from the right (LSD) to left (MSD).
@@ -11,7 +12,7 @@ LSD
 - Usually solved iteratively, using counting sort internally.
 	- For each digit, perform counting sort using that digit.
 - Time complexity id O(w(n + R)) where w = word size, R = radix (e.g. 256 for characters). +R because of the count array. In practice, R is much smaller making LSD radix sort a linear sorting algorithm. When w is a constant, LSD radix sort is a linear algorithm.
-- Space complexity: O(n + R)
+- Space complexity: O(n + R) +R because of the count array and the aux array
 - It is stable.
 - Fastest when w is less than logn, that is, when keys are short. Slowest when w is large.
 - Has limitation on types of keys that can be sorted.
