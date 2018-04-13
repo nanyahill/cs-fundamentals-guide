@@ -1,5 +1,5 @@
 ## Sorting
-According to D. Knuth, the sorting algorithms can be grouped into:
+According to D. Knuth, sorting algorithms can be grouped into:
 
 1) **Sorting by Insertion** ([Insertion Sort](src/algorithms/sorting/insertionsort/README.md) & [Shell Sort](src/algorithms/sorting/shellsort/README.md))
    - Items are considered one at a time, and each new item is inserted into its appropriate position relative to previously-sorted items.
