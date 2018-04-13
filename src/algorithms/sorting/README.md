@@ -1,3 +1,4 @@
+## Sorting
 According to D. Knuth, the sorting algorithms can be grouped into:
 
 1) **Sorting by Insertion** ([Insertion Sort](src/algorithms/sorting/insertionsort/README.md) & [Shell Sort](src/algorithms/sorting/shellsort/README.md))
