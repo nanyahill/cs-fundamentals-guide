@@ -22,13 +22,13 @@ A reference guide to topics in CS fundamentals.
 - Searching
 - Sorting
   - Comparison-based
-    - Selection Sort
-    - Bubble Sort
-    - Insertion Sort
-    - [Shell Sort](src/algorithms/sorting/shellsort/README.md)
-    - Merge Sort
-    - Quick Sort
-  - Non-Comparison based
+    - Selection Sort (Sorting by Selection)
+    - Bubble Sort (Sorting by Exchanging)
+    - Insertion Sort (Sorting by Insertion)
+    - [Shell Sort](src/algorithms/sorting/shellsort/README.md) (Sorting by Insertion)
+    - Merge Sort () (Sorting by Merging)
+    - Quick Sort (Sorting by Exchanging)
+  - Non-Comparison based (Sorting by Distribution)
     - [Counting Sort](src/algorithms/sorting/countingsort/README.md)
     - Bucket Sort
     - Radix Sort
