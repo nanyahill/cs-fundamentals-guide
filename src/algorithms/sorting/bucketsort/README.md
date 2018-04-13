@@ -29,4 +29,5 @@ References
 http://www.growingwiththeweb.com/2015/06/bucket-sort.html, Growing with the web
 http://www.shuati123.com/blog/2014/07/22/Bucket-Sort/, Woodstock blog
 https://www.geeksforgeeks.org/bucket-sort-2/, G4G
+https://cs.stackexchange.com/questions/48815/why-do-we-use-insertion-sort-in-the-bucket-sort, StackExchange
 https://stackoverflow.com/questions/7311415/how-is-the-complexity-of-bucket-sort-is-onk-if-we-implement-buckets-using-lin, StackOverflow
