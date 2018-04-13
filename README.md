@@ -7,7 +7,7 @@ A reference guide to topics in CS fundamentals.
 
 **Concepts:**
 - Recursion
-- Big O complexity
+- Algorithm Analysis
 
 **Data Structures:**
 - Arrays
