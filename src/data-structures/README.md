@@ -17,3 +17,21 @@ Heaps
 DS have this property: Representation Invariant: Data in a DS is organized in a certain manner and
 as long as it is organized in this way, the data structure functions correctly.
 Sorted Array: RI = every element is sorted
+
+More organized list of Data Structures
+Arrays- commonly used for searching problems.
+LinkedLists
+Stacks
+Queues
+Binary Trees
+    Heaps- commonly used in sorting problems
+Dictionaries (a group of records, each identified by one or more key fields)
+    HashTables- commonly used in searching problems
+    Binary Search Trees- commonly used in searching problems
+Graphs
+Specialized data structures
+    Suffix Trees/Arrays (used to preprocess Strings to make pattern matching faster)
+    k-d trees (Spatial data structures)
+    Graphs
+    Sets
+
