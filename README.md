@@ -14,9 +14,11 @@ A reference guide to topics in CS fundamentals.
 - LinkedLists
 - Stacks and Queues
 - Binary Trees
-- Heaps
-- Hash Tables
-- Binary Search Trees
+   - Heaps
+- Dictionaries
+  - Hash Tables
+  - Binary Search Trees
+- Graphs
 
 **Algorithms:**
 - Searching
