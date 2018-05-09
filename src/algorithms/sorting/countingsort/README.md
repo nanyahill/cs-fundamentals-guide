@@ -26,8 +26,12 @@
 	- Most of the elements in the range are present
 	- The additional memory usage is not an issue
 
-  #### Analysis:
-        - **Best Case:** O(n + k); O(n) if k = O(n) **Worst Case:** O(n + k); O(n) if k = O(n)
+  #### Time and Space Complexity:
+Worst Case Time | Best Case Time| Average Case Time | Space |
+-------- | --- | --- | --- |
+O(n + k) | O(n + k) | O(n + k) | O(n + k) due to the output array and the count array
+
+
 
   #### Related Articles:
   - [Counting Sort](http://www.growingwiththeweb.com/2014/05/counting-sort.html), Growing With the Web
