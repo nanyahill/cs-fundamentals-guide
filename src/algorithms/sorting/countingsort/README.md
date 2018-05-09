@@ -27,10 +27,11 @@
 	- The additional memory usage is not an issue
 
   #### Time and Space Complexity:
-	- Time:
-		Best Case: O(n + k); O(n) if k = O(n)
-		Worst Case: O(n + k); O(n) if k = O(n)
-	- Space: O(n + k) due to the output array and the count arary
+Worst Case Time | Best Case Time| Average Case Time | Space |
+-------- | --- | --- | --- |
+O(n + k) | O(n + k) | O(n + k) | O(n + k) due to the output array and the count array
+
+
 
   #### Related Articles:
   - [Counting Sort](http://www.growingwiththeweb.com/2014/05/counting-sort.html), Growing With the Web
