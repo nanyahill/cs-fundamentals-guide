@@ -13,10 +13,10 @@ try a different path." (from programming abstarctions textbook)
 - Have if..else. if takes care of base case while else takes care of the recursive case.
 - There are basically five types of recursive backtracking problems:
 	- Determine whether a solution exists.
-	- Find a solution.
+	- Find a solution.(Knights Tour)
 	- Find the best solution.
 	- Count the number of solutions.
-	- Print/find all the solutions.
+	- Print/find all the solutions.(Permutations, Subsets, NQueen)
 - General syntax for backtracking algorithms:
 		If you are already at a solution, report success.
 			for (every possible choice in the current position ) {
