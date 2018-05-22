@@ -38,3 +38,7 @@ Common BackTracking Problems:
 - Subset sum
 - Solving cryptarithmetic puzzles
 - Hamiltoniana cycle
+
+Notes of solving backtracking problems
+-When asked to find a single solution, the recursive call may need to return a value- could be either a boolean to test of solution was ok or the actual solution.
+- To find ALL solutions, the recursive function need not return a value, instead you backtrack and remove the recently added from the tmp variable.
