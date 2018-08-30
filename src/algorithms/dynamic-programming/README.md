@@ -32,3 +32,5 @@ DP practice problems:
 Articles
 1) Difference between top-down and bottom-up DP. https://stackoverflow.com/questions/6164629/dynamic-programming-and-memoization-bottom-up-vs-top-down-approaches
 
+Ideas of DP 10th of August:
+1) The essence of dynamic programming is the idea of a state space and a recurrence relation between states. Once you figure that out for any problem, implementation is straightforward.

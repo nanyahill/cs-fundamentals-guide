@@ -23,3 +23,17 @@ In practice, the Big O and the worst case analysis are more useful in describing
 Notes:
 - Any memory allocated besides the input count towards the space complexity.
 - Variables have a constant space complexity because the numbe of variables stay the same regardless of the size of n.
+
+*** Made more sense to me that ever before ****
+Usually in AlgorithmAnalysis we are looking for upper bounds on cost, as in "Algorithm X solves problem Y in no more than O(n22/7) time in the worst case."
+Upper bounds are useful when we want to advertise that our algorithm is good. But what if we want to argue that no other algorithm can be better, or perhaps
+that some problem is so hard that we can't possibly hope to find a good solution to it?
+Source: http://www.cs.yale.edu/homes/aspnes/pinewiki/LowerBounds.html
+
+Upper bound is the big theta bound on the worst case running time.
+It is used to advertise that the algorithm is good- the algorithm can not get an input that would make this running time worse.
+
+Lower bound is the big omega bound on the worst case running time.
+It is used to advertise that the algorithm is bad- no other algorithm can be better, or perhaps that some problem is so hard that we can't possibly hope to find a good solution to it?
+
+Big O on the worst case running time is when big omega = big theta (both on the worst case running time).
