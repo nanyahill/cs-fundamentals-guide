@@ -22,19 +22,16 @@ Nanya Origbo
 
 ---------
      
-#Work Experience (only last 10 years)
+### Professional Experience
 
-## Company Name 1 (City, State)
-*[Company 1][] description, particularly if not well-known.*
+## Slalom Consulting (Seattle, WA)
+*A business and technology consulting firm with over $750 million in revenue*
 
-**Position Title (include alternate titles in parentheses)** (Start Date - End Date)
+**Software Engineer Intern** (Jun 2016 - Sept 2016)
 
-Summary of your role
+- Designed, developed, and deployed features for Microsoft Flow: a workflow and task automation product. 
 
-- Accomplishment that contains **bold text**.
-- Accomplishment
-- Accomplishment
-- Accomplishment
+- Streamlined API testing process using Postman collections, which increased developer productivity by 40%.
 
 ## Company Name 2 (City, State)
 *[Company 2][] description, particularly if not well-known.*
