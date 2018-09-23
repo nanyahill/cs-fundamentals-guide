@@ -13,8 +13,8 @@ Nanya Origbo
 
 2015-2017:   **Master of Software Engineering**; Seattle University
 
-    *Capstone Project (PACCAR Inc.): GRoPOD- A web-based system that manages truck production metrics using Angular 2.0, .NET Core, SQL      Server.*
-    *Alpha Sigma Nu, Jesuit Honor Society.*
+    - Capstone Project (PACCAR Inc.): GRoPOD- A web-based system that manages truck production metrics using Angular 2.0, .NET Core, SQL      Server.*
+    - Alpha Sigma Nu, Jesuit Honor Society.*
 
 2011-2012:   **Master of Science, Computer Science**; University of Edinburgh
 
@@ -25,7 +25,7 @@ Nanya Origbo
 ### PROFESSIONAL EXPEREINCE
 
 ##### SLALOM CONSULTING (Seattle, WA)
-*A business and technology consulting firm with over $750 million in revenue*
+> A business and technology consulting firm with over $750 million in revenue.
 
 **Software Engineer Intern** (Jun 2016 - Sept 2016)
 
@@ -33,12 +33,13 @@ Nanya Origbo
 
 - Streamlined API testing process using Postman collections, which increased developer productivity by 40%.
 
-TOTAL E&P UK (Aberdeen, United Kingdom)
-
-*A business and technology consulting firm with over $750 million in revenue*
+##### TOTAL E&P (Aberdeen, United Kingdom)
+> A global energy company focusing on oil and gas production with over $200 billion in revenue.
 
 **Computer Scientist** (Dec 2012 - Sept 2015)
 
-- Designed, developed, and deployed features for Microsoft Flow: a workflow and task automation product. 
+- Developed a web-based data visualization tool to track the technology maturity of geoscience research projects. 
 
-- Streamlined API testing process using Postman collections, which increased developer productivity by 40%.
+- Implemented various geoscience research ideas and algorithms using Java. 
+
+- Trained a team of 10 geoscientists in the Java and software development best practices.
