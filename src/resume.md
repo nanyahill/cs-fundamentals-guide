@@ -27,7 +27,7 @@ Nanya Origbo
 ##### SLALOM CONSULTING (Seattle, WA)
 > A business and technology consulting firm with over $750 million in revenue.
 
-***Software Engineer Intern*** (Jun 2016 - Sept 2016)
+****Software Engineer Intern**** (Jun 2016 - Sept 2016)
 
 - Designed, developed, and deployed features for Microsoft Flow: a workflow and task automation product. 
 
@@ -36,7 +36,7 @@ Nanya Origbo
 ##### TOTAL E&P (Aberdeen, United Kingdom)
 > A global energy company focusing on oil and gas production with over $200 billion in revenue.
 
-***Computer Scientist*** (Dec 2012 - Sept 2015)
+****Computer Scientist**** (Dec 2012 - Sept 2015)
 
 - Developed a web-based data visualization tool to track the technology maturity of geoscience research projects. 
 
