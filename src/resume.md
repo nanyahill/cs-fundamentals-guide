@@ -24,7 +24,7 @@ Nanya Origbo
      
 ### PROFESSIONAL EXPEREINCE
 
-### SLALOM CONSULTING (Seattle, WA)
+SLALOM CONSULTING (Seattle, WA)
 *A business and technology consulting firm with over $750 million in revenue*
 
 **Software Engineer Intern** (Jun 2016 - Sept 2016)
@@ -33,5 +33,11 @@ Nanya Origbo
 
 - Streamlined API testing process using Postman collections, which increased developer productivity by 40%.
 
-## Company Name 2 (City, State)
-*[Company 2][] description, particularly if not well-known.*
+TOTAL E&P UK (Aberdeen, United Kingdom)
+*A business and technology consulting firm with over $750 million in revenue*
+
+**Computer Scientist** (Dec 2012 - Sept 2015)
+
+- Designed, developed, and deployed features for Microsoft Flow: a workflow and task automation product. 
+
+- Streamlined API testing process using Postman collections, which increased developer productivity by 40%.
