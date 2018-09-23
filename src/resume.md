@@ -1,4 +1,4 @@
-# Nanya Origbo
+# <p style="text-align: center;"> Nanya Origbo </p>
 (206) 291-5932 | norigbo@gmail.com
 wwwwlinkedin.com/in/nanya-origbo
 
