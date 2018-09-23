@@ -11,12 +11,13 @@ Nanya Origbo
 Education
 ---------
 
-2015-2017
-:   **Masters, Software Engineering**; Seattle University
+2015-2017:   **Master of Software Engineering**; Seattle University
 
-    *Capstone Project (PACCAR Inc.): GRoPOD- A web-based system that manages truck production metrics using Angular 2.0, .NET Core, SQL Server.*
+    *Capstone Project (PACCAR Inc.): GRoPOD- A web-based system that manages truck production metrics using Angular 2.0, .NET Core, SQL      Server.*
     *Alpha Sigma Nu, Jesuit Honor Society.*
-     
+
+2011-2012:   **Master of Science, Computer Science**; University of Edinburgh
+2003-2007:   **Masters, Software Engineering**; University of Lagos
      
 #Work Experience (only last 10 years)
 
