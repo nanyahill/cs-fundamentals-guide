@@ -24,7 +24,7 @@ Nanya Origbo
      
 ### PROFESSIONAL EXPEREINCE
 
-##### SLALOM CONSULTING (Seattle, WA)
+#### SLALOM CONSULTING (Seattle, WA)
 > A business and technology consulting firm with over $750 million in revenue.
 
 *Software Engineer Intern* (Jun 2016 - Sept 2016)
@@ -33,10 +33,10 @@ Nanya Origbo
 
 - Streamlined API testing process using Postman collections, which increased developer productivity by 40%.
 
-##### TOTAL E&P (Aberdeen, United Kingdom)
+#### TOTAL E&P (Aberdeen, United Kingdom)
 > A global energy company focusing on oil and gas production with over $200 billion in revenue.
 
-**_Computer Scientist_** (Dec 2012 - Sept 2015)
+*Computer Scientist* (Dec 2012 - Sept 2015)
 
 - Developed a web-based data visualization tool to track the technology maturity of geoscience research projects. 
 
