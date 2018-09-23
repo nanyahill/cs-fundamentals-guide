@@ -1,6 +1,5 @@
-# <p style="text-align: center;"> Nanya Origbo </p>
-(206) 291-5932 | norigbo@gmail.com
-wwwwlinkedin.com/in/nanya-origbo
+# Nanya Origbo
+## (206) 291-5932 | norigbo@gmail.com | wwwwlinkedin.com/in/nanya-origbo
 
 #Summary Over 4 years’ experience in developing software applications with a passion for collaborating with business and technical stakeholders to deliver solutions that drive business value.
 
