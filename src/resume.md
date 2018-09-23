@@ -8,8 +8,8 @@ Nanya Origbo
 > Over 4 years’ experience in developing software applications with a passion for collaborating with business and technical stakeholders to deliver solutions that drive business value.
 
 ----
-Education
----------
+
+### Education
 
 2015-2017:   **Master of Software Engineering**; Seattle University
 
@@ -17,7 +17,10 @@ Education
     *Alpha Sigma Nu, Jesuit Honor Society.*
 
 2011-2012:   **Master of Science, Computer Science**; University of Edinburgh
-2003-2007:   **Masters, Software Engineering**; University of Lagos
+
+2003-2007:   **Bachelor of Science, Applied Physics**; University of Lagos
+
+---------
      
 #Work Experience (only last 10 years)
 
