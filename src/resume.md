@@ -24,8 +24,7 @@ Nanya Origbo
      
 ### PROFESSIONAL EXPEREINCE
 
-SLALOM CONSULTING (Seattle, WA)
-
+##### SLALOM CONSULTING (Seattle, WA)
 *A business and technology consulting firm with over $750 million in revenue*
 
 **Software Engineer Intern** (Jun 2016 - Sept 2016)
