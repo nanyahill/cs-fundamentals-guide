@@ -1,6 +1,6 @@
 Nanya Origbo
 ============
-> (206) 291-5932 | [Email](norigbo@gmail.com) | [LinkedIn Profile](http://www.linkedin.com/in/nanya-origbo)
+> (206) 291-5932 | [norigbo@gmail.com]() | [LinkedIn Profile](http://www.linkedin.com/in/nanya-origbo)
 
 ----
 
