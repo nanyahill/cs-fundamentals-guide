@@ -4,12 +4,12 @@ Nanya Origbo
 
 ----
 
-### Summary
+### SUMMARY
 > Over 4 years’ experience in developing software applications with a passion for collaborating with business and technical stakeholders to deliver solutions that drive business value.
 
 ----
 
-### Education
+### EDUCATION
 
 2015-2017:   **Master of Software Engineering**; Seattle University
 
@@ -22,9 +22,9 @@ Nanya Origbo
 
 ---------
      
-### Professional Experience
+### PROFESSIONAL EXPEREINCE
 
-## Slalom Consulting (Seattle, WA)
+### SLALOM CONSULTING (Seattle, WA)
 *A business and technology consulting firm with over $750 million in revenue*
 
 **Software Engineer Intern** (Jun 2016 - Sept 2016)
