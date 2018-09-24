@@ -23,7 +23,7 @@ May 2003 - Dec 2007:   **Bachelor of Science, Applied Physics**; University of L
 
 ---------
      
-### PROFESSIONAL EXPEREINCE
+### PROFESSIONAL EXPERIENCE
 
 #### SLALOM CONSULTING (Seattle, WA)
 > A business and technology consulting firm with over $750 million in revenue.
