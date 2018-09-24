@@ -11,7 +11,7 @@ Nanya Origbo
 
 ### EDUCATION
 
-> Sept 2015 - Jun 2017:   **Master of Software Engineering**; Seattle University.
+Sept 2015 - Jun 2017:   **Master of Software Engineering**; Seattle University.
 
     - Capstone Project (PACCAR Inc.):
         - GRoPOD- A web-based system that manages truck production metrics using Angular 2.0, .NET Core, SQL Server.
