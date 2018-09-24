@@ -13,7 +13,7 @@ Nanya Origbo
 
 Spet 2015 - Jun 2017:   **Master of Software Engineering**; Seattle University
 
-    - Capstone Project (PACCAR Inc.)
+    - Capstone Project (PACCAR Inc.):
         - GRoPOD- A web-based system that manages truck production metrics using Angular 2.0, .NET Core, SQL Server.
     - Alpha Sigma Nu, Jesuit Honor Society.
 
@@ -59,3 +59,10 @@ May 2003 - Dec 2007:   **Bachelor of Science, Applied Physics**; University of L
 - Prepared technical articles and notes for new employees that reduced training time by 30%.
 
 ---------
+     
+### TECHNICAL SKILLS
+- Languages: Java, C#, C/C++, HTML, JavaScript, CSS, PL/SQL. 
+
+- Databases: Oracle, SQL Server, MongoDB. 
+
+- Others: Unix, Angular 2.0, ASP.NET, ETL process, Git, REST.
