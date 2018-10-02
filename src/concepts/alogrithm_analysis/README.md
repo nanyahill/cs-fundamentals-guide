@@ -37,3 +37,5 @@ Lower bound is the big omega bound on the worst case running time.
 It is used to advertise that the algorithm is bad- no other algorithm can be better, or perhaps that some problem is so hard that we can't possibly hope to find a good solution to it?
 
 Big O on the worst case running time is when big omega = big theta (both on the worst case running time).
+
+Good link on recurrence relations of common algorithms, e.g binary search: http://faculty.simpson.edu/lydia.sinapova/www/cmsc250/LN250_Weiss/L14-RecRel.htm
