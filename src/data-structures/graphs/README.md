@@ -7,3 +7,10 @@ Graphs
 
 
 - A tree is an undirected graph that is connected and has no cycles.
+
+Topological Sorting:
+1) Most important operation on a DAG.
+2) It orders the vertices on a line such that all directed edges go from left to right.
+3) Such an ordering does not exist if the graph contains a directed cycle, at which you stop going right and go backwards to the left breaking the topological sorting rule- always move from left to right.
+4) Each DAG has at least one topological sort.
+5) Importance of topological sort is that it gives us an ordering to process each vertex before any of its successors.
