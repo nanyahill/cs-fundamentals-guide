@@ -37,6 +37,6 @@ A reference guide to topics in CS fundamentals.
 - Dynamic Programming
 - Greedy Algorithms
 
-  **System Design:**
+**System Design:**
 - [Basics](src/system_design/basics/README.md)
 
