@@ -38,5 +38,5 @@ A reference guide to topics in CS fundamentals.
 - Greedy Algorithms
 
 **System Design:**
-- [Reliability | Scalability | Maintainability](src/system_design/basics/README.md)
+- [Reliability (src/system_design/basics/README.md) | Scalability(src/system_design/basics/README.md) | Maintainability](src/system_design/basics/README.md)
 
