@@ -3,7 +3,7 @@ A reference guide to topics in CS fundamentals.
 
 ### This repository is a work in progress
 
-> This repository serves as a reference guide to quickly brush up on CS fundamentals required for coding interviews. Below, the topics related to Data Strcutures and Algorithms have been grouped as per my understanding so far. Also, articles/references have been added which I found useful when studying these topics.
+> This repository serves as a reference guide to quickly brush up on CS fundamentals required for coding interviews. Below, the topics related to Data Structures and Algorithms have been grouped as per my understanding so far. Also, articles/references have been added which I found useful when studying these topics.
 
 **Concepts:**
 - Recursion

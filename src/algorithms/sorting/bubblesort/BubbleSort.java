@@ -1,5 +1,5 @@
 /**
- * Key Idea: Compare adjacent elements of the array and exchage them if they are out of order
+ * Key Idea: Compare adjacent elements of the array and exchange them if they are out of order
  * Optimizations:
  * - inner loop goes from 0..n-i-1 since the end of array is already sorted
  * - boolean flag checks if array is already sorted using the inner loop
