@@ -24,9 +24,9 @@ A reference guide to topics in CS fundamentals.
 - Searching
 - [Sorting](src/algorithms/sorting/README.md)
   - Comparison-based
-    - Selection Sort
-    - Bubble Sort
-    - Insertion Sort
+    - [Selection Sort](src/algorithms/sorting/selectionsort/README.md)
+    - [Bubble Sort](src/algorithms/sorting/bubblesort/README.md)
+    - [Insertion Sort](src/algorithms/sorting/insertionsort/README.md)
     - [Shell Sort](src/algorithms/sorting/shellsort/README.md)
     - Merge Sort
     - Quick Sort
