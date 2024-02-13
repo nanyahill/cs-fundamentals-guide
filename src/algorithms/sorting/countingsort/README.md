@@ -18,7 +18,7 @@
 	- In this algorithm, input values are used as index, hence not suitable for sorting floating point numbers.
 	- The algorithm can be extended to include negative integers.
 	- It is a stable sorting algorithm. This is useful in Radix sort.
-	- It is NOT an in-place sorting algorithm. Hence, useful if additional memory is a no issue.
+	- It is NOT an in-place sorting algorithm when used with aux storage. Hence, useful if additional memory is a no issue. However, it can be trade stability for in-place movement of elements to their final position.
 
   #### Usage:
   	- The list is made up of integers or can be mapped to integers
